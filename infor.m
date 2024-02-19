@@ -2,7 +2,7 @@
 clear all
 clc
 
-num=input('Introduzca un número entero:)
+num=input('Introduzca un número entero:') 
 
 factorial=1
 
